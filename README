@@ -1,0 +1,3 @@
+Logparty is a tool to help you find and manage data that might be getting buried in your logs.  It is intended to support pulling logs from a number of locations(including e-mail) and arbitrary formats.
+
+This is not a tool to replace a professional solution, like Splunk(http://www.splunk.com).  Rather, it's a tool to keep you going until you're ready for a professional solution.
